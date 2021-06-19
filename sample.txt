@@ -1,1 +1,2 @@
 my first fellowship file is created.
+i am editing in git to merge the file into bash.
